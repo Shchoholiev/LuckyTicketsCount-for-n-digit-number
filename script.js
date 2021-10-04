@@ -1,3 +1,4 @@
+// Created by Shchoholiev
 function getLuckyTicketsCount(n){
 
     let arrWorkPrevious = [1,1,1,1,1,1,1,1,1,1];
